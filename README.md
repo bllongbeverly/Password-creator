@@ -30,6 +30,14 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+## Link to deployed site
+https://bllongbeverly.github.io/Password-creator/
+
 ![screenshot](./Develop/Screenshot%202023-03-15%20101406.png)
 
- 
+ ### Sources
+
+- Instructor: Caleb Crum
+- TA: Reagan Joseph
+- Tutor: Patrick Meehan
+- Chat GPT 
